@@ -57,6 +57,7 @@
 }
 
 .message {
+    position: relative;
     padding: 10px;
     background: #658acf;
     margin: 5px;
@@ -75,3 +76,27 @@
     max-width: 200px;
     word-wrap: break-word;
 }
+
+.init {
+    padding: 10px;
+    background: #b6b1b1;
+    margin-top: 5px;
+    float: left;
+    margin-bottom: 50px;
+    border-radius: 10px 15px 3px 10px;
+    max-width: 200px;
+    word-wrap: break-word;
+}
+
+#faq {
+    position: absolute;
+    top: 125px;
+    left: 20px;
+}
+  
+  #social_media {
+    position: absolute;
+    top: 125px;
+    left: 200px;
+}
+  
